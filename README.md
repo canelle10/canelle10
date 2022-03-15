@@ -11,11 +11,11 @@
 </p>
 
 ## My contribution
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=canelle10&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=canelle10&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=highcontrast&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canelle10&layout=compact&theme=highcontrast&hide_border=true" />
 
 
 <h3 align="left">Connect with me:</h3>
