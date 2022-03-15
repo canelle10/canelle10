@@ -4,7 +4,7 @@
 
 ### My personnal project
 - My projet during 2 weeks in Le Wagon [Sitcom](http://www.sitcom.live/)
-- 
+
 ### Programming Languages 💻
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
