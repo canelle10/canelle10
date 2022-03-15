@@ -15,6 +15,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?usersame=timcreative&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=highcontrast&hide_border=true" />
 
 
