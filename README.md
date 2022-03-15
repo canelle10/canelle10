@@ -3,7 +3,7 @@
 ## 👋 About me
 
 ### My personnal project
-- My projet during 2 weeks in Le Wagon [Sitcom](http://www.sitcom.live/)
+- My project during 2 weeks in Le Wagon [Sitcom](http://www.sitcom.live/)
 
 ### Programming Languages and Tools 💻
 <p>
